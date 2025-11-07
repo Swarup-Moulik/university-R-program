@@ -1,0 +1,16 @@
+"ProductID","ProductName","Price","Stock"
+101,"Product 101",120,TRUE
+102,"Product 102",250,TRUE
+103,"Product 103",80,FALSE
+104,"Product 104",500,TRUE
+105,"Product 105",150,TRUE
+106,"Product 106",75,FALSE
+107,"Product 107",90,TRUE
+108,"Product 108",320,TRUE
+109,"Product 109",440,TRUE
+110,"Product 110",190,FALSE
+111,"Product 111",210,TRUE
+112,"Product 112",85,TRUE
+113,"Product 113",300,FALSE
+114,"Product 114",600,TRUE
+115,"Product 115",110,TRUE
