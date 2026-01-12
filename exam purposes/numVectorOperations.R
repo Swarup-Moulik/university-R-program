@@ -1,0 +1,5 @@
+vec <- c(5,3,6,4,9)
+cat("Original vector :- ", vec, "\n")
+cat("Square of each element :- ", vec^2, "\n")
+cat("Cube of each element :- ", vec^3, "\n")
+cat("Square root of each element :- ", sqrt(vec), "\n")
